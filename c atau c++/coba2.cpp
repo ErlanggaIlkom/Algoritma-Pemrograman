@@ -11,3 +11,4 @@ printf("masukan nama kedua =");scanf("%",&nm2);
 
 printf("\n\n");
 }
+
